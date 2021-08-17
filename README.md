@@ -18,3 +18,7 @@ All project made on Django platform
 
 ![центральныйиворошиловскийхитмап](https://user-images.githubusercontent.com/28814889/129793540-2300947e-fb49-48e4-8fcc-50ca5bfdc71b.png)
 
+
+![2021-08-17_23-17-23](https://user-images.githubusercontent.com/28814889/129794540-9678862d-a3a6-4655-b279-6b5e019414a8.png)
+
+
